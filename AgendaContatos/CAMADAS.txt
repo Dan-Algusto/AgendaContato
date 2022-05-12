@@ -1,0 +1,36 @@
+DAL
+
+Data
+Access
+Layer
+
+Camada de acesso a dados...
+
+DTO
+Data Transfer Object 
+Objeto de transferencia de dados.
+
+
+Diferença entre DTO E ViewModel
+https://www.lambda3.com.br/2021/04/dto-vs-viewmodel/
+------------------------------------------------------
+
+Business
+
+vai orquestrar as chamadas ao DAL
+concentra as regras de negocio.
+
+----------------------------------
+
+
+UI
+User Interface
+
+Interface com o usuário..
+Nesse caso um projeto windowsForms
+
+
+-----------------------------------
+
+CRUD macoratti
+http://www.macoratti.net/17/03/cshp_crud1.htm
